@@ -35,13 +35,6 @@
   "dependencies": {
     "redis-errors": "^1.2.0"
   },
-  "devDependencies": {
-    "benchmark": "^2.1.0",
-    "coveralls": "^3.0.10",
-    "nyc": "^14.1.1",
-    "mocha": "^6.1.1",
-    "standard": "^11.0.1"
-  },
   "author": "Ruben Bridgewater",
   "license": "MIT",
   "bugs": {
