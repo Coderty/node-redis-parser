@@ -15,6 +15,9 @@
     "type": "git",
     "url": "git+https://github.com/NodeRedis/node-redis-parser.git"
   },
+  "publishConfig": {
+    "registry": "https://npm.pkg.github.com/@coderty"
+  },
   "keywords": [
     "redis",
     "protocol",
